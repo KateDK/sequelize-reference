@@ -1,3 +1,5 @@
+link: https://github.com/KateDK/sequelize-reference
+
 # Sequelize
 
 ---
